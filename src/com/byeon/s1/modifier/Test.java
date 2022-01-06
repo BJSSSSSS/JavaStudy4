@@ -10,6 +10,12 @@ class Test {
 		
 	}
 	
+	
+	public void info(int num) {
+		this.num = num;
+		System.out.println(this.num);
+	}
+	
 }
 
 
