@@ -2,7 +2,7 @@
 
 package com.byeon.s9.himart;
 
-public abstract class Eelectronics {
+public abstract class Electronics {
 
 	String company;
 	String brand;

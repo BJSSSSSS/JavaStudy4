@@ -2,7 +2,7 @@
 
 package com.byeon.s9.himart;
 
-public class Phone extends Eelectronics {
+public class Phone extends Electronics {
 
 	int pixel;
 	
