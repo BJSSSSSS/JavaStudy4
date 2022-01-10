@@ -2,14 +2,17 @@
 
 package com.byeon.s9.himart;
 
-import com.byeon.s8.rpg.Character;
+import com.byeon.s8.rpg.*;
 
 public class HimartMain {
 
 	public static void main(String[] args) {
 		
-		//Tv, Computer, Phone 정보입력
+		Magition magition;
 		
+		com.byeon.s9.himart.Magition magition2;
+		
+		//Tv, Computer, Phone 정보입력
 		Computer computer = new Computer();
 		Phone phone = new Phone();
 		Tv tv = new Tv();
